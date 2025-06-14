@@ -21,9 +21,9 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-(Remember to replace your-username and your-repo-name with your actual GitHub details.)
+git clone [https://github.com/your-username/your-repo-name](https://github.com/493g/Data_Aanalytics_Agent).git
+cd Data_Aanalytics_Agent
+
 
 Set up your Python environment:
     It's highly recommended to use a virtual environment.
@@ -33,22 +33,6 @@ Bash
 python -m venv .venv
 source .venv/bin/activate  # On Windows, use: .venv\Scripts\activate
 Install Python dependencies:
-Create a requirements.txt file in your project's root directory with the following content:
-
-streamlit
-pandas
-numpy
-matplotlib
-seaborn
-python-docx
-openpyxl
-PyPDF2
-together
-Pillow
-pytesseract
-pdf2image
-python-dotenv
-Then install them:
 
 Bash
 
