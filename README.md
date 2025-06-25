@@ -21,7 +21,7 @@ Clone the repository:
 
 Bash
 
-git clone [https://github.com/https://github.com/493g/Data_Aanalytics_Agent.git
+git clone https://github.com/https://github.com/493g/Data_Aanalytics_Agent.git
 cd Data_Aanalytics_Agent
 
 
