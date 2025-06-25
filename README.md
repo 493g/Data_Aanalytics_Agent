@@ -22,26 +22,29 @@ Clone the repository:
 Bash
 
 git clone https://github.com/https://github.com/493g/Data_Aanalytics_Agent.git
+
 cd Data_Aanalytics_Agent
 
 
-Set up your Python environment:
-It's highly recommended to use a virtual environment.
+Set up your Python environment: It's highly recommended to use a virtual environment.
 
 Bash
 
 python -m venv .venv
-source .venv/bin/activate  # On Windows, use: .venv\Scripts\activate
+source .venv/bin/activate  # On Windows, 
+
+use: .venv\Scripts\activate
 Install Python dependencies:
 
 Bash
 
 pip install -r requirements.txt
-Configure your API Key:
-Obtain your API key from Together.ai. Then, create a file named .env in the root directory of your project (the same folder as data_analyst_app.py) and add your key like this:
 
-TOGETHER_API_KEY=your_actual_together_api_key
-Replace your_actual_together_api_key with the key you obtained.
+
+Configure your API Key: Obtain your API key from Together.ai. Then, create a file named .env in the root directory of your project (the same folder as data_analyst_app.py) and add your key like this:
+
+TOGETHER_API_KEY=your_actual_together_api_key #Replace your_actual_together_api_key with the key you obtained.
+
 
 Install System Dependencies (for PDF/Image OCR):
 This is a crucial step for the agent to process PDF and image files.
