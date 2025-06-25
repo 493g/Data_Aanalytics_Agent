@@ -21,12 +21,12 @@ Clone the repository:
 
 Bash
 
-git clone [https://github.com/your-username/your-repo-name](https://github.com/493g/Data_Aanalytics_Agent).git
+git clone [https://github.com/https://github.com/493g/Data_Aanalytics_Agent.git
 cd Data_Aanalytics_Agent
 
 
 Set up your Python environment:
-    It's highly recommended to use a virtual environment.
+It's highly recommended to use a virtual environment.
 
 Bash
 
